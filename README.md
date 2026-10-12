@@ -1,2 +1,6 @@
 # cpp-rpg-game
-it's a simple cli rpg made in c++. It's just made to understand better c++ but maybe in the future i'll add a UI
+It's a simple rpg game (very early there's no real game yet). there's some music so it's cool ig
+
+
+# demo
+to try it download the zip and run the .exe (i swear it isnt a virus trust)
